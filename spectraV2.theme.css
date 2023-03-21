@@ -27,7 +27,7 @@
   --color-2: #171D23;
   --color-3: #1B2229;
   --color-4: #1F2933;
-  --color-5: #0075ff;
+  --color-5: #f5f1a9;
   /* text */
   --color-6: #8f8f8f;
   --color-7: #FFFFFF;
@@ -85,7 +85,7 @@
   --info-warning-foreground: var(--accent-color);
   --tab-selected: #000;
   --channeltextarea-background: var(--color-4);
-  --switch: #000;
+  --switch: ##ff8375;
   --activity-card-background: var(--background-1);
 /* buttons */
   --button-background: var(--color-4);
